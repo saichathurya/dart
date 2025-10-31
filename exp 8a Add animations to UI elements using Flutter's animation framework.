@@ -69,4 +69,7 @@ class _AnimationDemoState extends State<AnimationDemo>
   );
 }
 
+  );
+}
+
 
